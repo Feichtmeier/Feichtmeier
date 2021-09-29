@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hello all the nerdy people that found their way to my README.md 👋
 
-- I am a Software Engineer :man_technologist:, (Hobby) Designer :man_artist:, [(Hobby) Musician :guitar: :singer:](https://deafdive.bandcamp.com/releases) and proud dad :sparkling_heart: :family_man_woman_girl_girl: :unicorn:
+- I am a Software Engineer :man_technologist:, (Hobby) Designer :man_artist:, [(Hobby) Musician :guitar::singer:](https://deafdive.bandcamp.com/releases) and proud dad :sparkling_heart: :family_man_woman_girl_girl: :unicorn:
 - 🔭 I’m currently working on [a new settings app for Ubuntu made with Flutter](https://github.com/Feichtmeier/settings), [Ubuntu Yaru](https://github.com/ubuntu/yaru), [Ubuntu Yaru Flutter theme](https://github.com/ubuntu/yaru.dart), [HSD Java and Engineering Courses](https://github.com/hs-duesseldorf) and some personal Java projects with [Spring Boot](https://spring.io/projects/spring-boot) and [Vaadin](https://vaadin.com/)
-- 🌱 Always learning new [Flutter](https://flutter.dev) and Java tricks 💙 :coffee: 
-- 🍹 Fav drinks are green tea, water and beer :tea: :beer:
-- 🥘 Fav food is viatnamese 🍜, chinese, mexican 🌮 and italian 🍝👌   
-- :headphones: [I love music](https://open.spotify.com/user/frederik-f?si=084df532fe2c4b05)
-- 🎮 When there is time left I play World of Warcraft (mainly all sorts of elves :elf_man: :elf:)
+- 🌱 At the moment I'm mostly learning [Flutter](https://flutter.dev) 💙 but also some new Java tricks :coffee: 
+- 🥤 My fav drinks are green tea :tea:, water :ice_cube: and beer :beer: 
+- 👨‍🍳 Currently my fav foods are viatnamese 🍜, chinese 🥡, mexican 🌮 and italian 🍝👌 but this varies heavily   
+- 🎧 [I love music](https://open.spotify.com/user/frederik-f?si=084df532fe2c4b05) 🤘
+- 🎮 When there is time left I play World of Warcraft (mainly all sorts of elves 🧝‍♂️ 🧝‍♀️)
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link)](https://openjdk.java.net/)
 [![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAKaAAACmgFJLYRWAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAArhJREFUSImdk89rE1EQx78zmzaprUmbH03wB4gFsckmm/64FKqCeFX8gelBPHhpT4LVHjx48B+wejUK1YIIPRV6kB6EFvFm8VAiYtFbwbRKY4U2abo7HpImm2Szmzqw8N7Me9/PzLxZQot2fllOkgsPSTAGIC/Ak+VReup0j1oSZkwxYRyAxxwT4NnSKE3+F8BO+DCQBkCrwq1CagG3Xpzo06Kvsl/WzgLEIGImIoAUYiIQEYEYDCKDFDARIMztLvEE/O/WH1+8UQ9wmTe8T1PeuJbIFYzsVuarSs5PVK5AgM2t65xKTxtz4/fNMaWyuvY6QC59NqLFdc+x46dgGN93Nzb9AEBk/VXbUN4QjVD0sk8yC4uVpCsLd+EBgC6BMBEQGkz2BTQ1SzZFWEKYJjmVnq6t4OZzHyn8BoAnoql5nbgDALoi4S4A2zvZDXdJkEB1xKaVxK50S2Zh0VV23IWgu9xRKh0uWVCLeyGy+3s101EVLUVFpAIpL820ezz20lBwe7aTRX8LoBMAIppa0Ik95jyPRMJtpPD+zs8s4zAm+ghjLz8BIFTDtrCAGnP1DiYNc7C+XVbGBLpTAzWkaZb+WD+HhpL1zbAHAAjXeGyGXwD0RPspOKjpQPUNbAEEmanx2FRwYIFYVAkNJAqO6gDY8MkjEZmvZllqrFNufjXmDmqJbcBigkw+RnqiKD5JHUBEpNIiJ0hQU73+hJqtnm+8UWpHGUJE81LYM8wZ2UEEQCiZCAfi0R9mcfP9ar/TE0X9qJ7azeVW6w9Jk69SyUDydE//mc9WSTRMTGxO2uHNzyiCC6xQLwFtNkUcJKIbIr/WP3xczX1bqyRNEOs/ZeiTtPkKmBPBVTtxC9j7pXN0yeyzHMmVYSr+cSMlhHmreIMwmr9V05lfGabiXweInbAjoB5i98h29g+dUABUDBEaEwAAAABJRU5ErkJggg==)](https://dart.dev/)
@@ -15,5 +15,5 @@
 
 
 <a href="https://github.com/Feichtmeier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Feichtmeier&count_private=true&show_icons=true&hide_title=true&bg_color=2b2b2b&text_color=fafafa&icon_color=fafafa&title_color=fafafa&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Feichtmeier&count_private=true&show_icons=true&hide_title=true&bg_color=3d3d3d&text_color=fafafa&icon_color=fafafa&title_color=fafafa&hide_border=true" />
 </a>
