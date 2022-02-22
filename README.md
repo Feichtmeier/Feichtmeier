@@ -2,7 +2,7 @@
 
 ![Alt Text](https://i.imgur.com/drvZx3z.gif) 
 
-- I am a human using GitHub - you could describe me as a Software Engineer :man_technologist:, Designer :man_artist:, [Musician :guitar::singer:](https://deafdive.bandcamp.com/releases) and proud dad :sparkling_heart: :family_man_woman_girl_girl: :unicorn:
+- I am a human using GitHub - you could describe me as a Software Developer :man_technologist:, Designer :man_artist:, [Musician :guitar::singer:](https://deafdive.bandcamp.com/releases) and proud dad :sparkling_heart: :family_man_woman_girl_girl: :unicorn:
 - 🔭 I’m currently working on [a new settings app for Ubuntu made with Flutter](https://github.com/Feichtmeier/settings), [Ubuntu Yaru Flutter theme](https://github.com/ubuntu/yaru.dart), [Ubuntu Yaru Flutter Widgets](https://github.com/ubuntu/yaru_widgets.dart) and [HSD Java and Engineering Courses](https://github.com/hs-duesseldorf)
 - 🌱 At the moment I'm fanatically learning, loving and ejoying [Flutter](https://flutter.dev) and [Dart](https://dart.dev/) 🎯💙 but I used to be a Java dev :laughing: 
 - 🥤 Fav drinks are green tea :tea:, water :ice_cube:, ☕ coffee and beer :beer: 
