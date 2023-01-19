@@ -3,7 +3,7 @@
 - I am a human using GitHub - you could describe me as a Software Developer :man_technologist:, Designer :man_artist:, [Musician :guitar::singer:](https://deafdive.bandcamp.com/releases) and proud dad :sparkling_heart: :family_man_woman_girl_girl: :unicorn:
 - 🔭 I’m currently working on [a new software store app for Ubuntu made with Flutter](https://github.com/ubuntu-flutter-community/software), [a new settings app for Ubuntu made with Flutter](https://github.com/ubuntu-flutter-community/settings), [Ubuntu Yaru Flutter theme](https://github.com/ubuntu/yaru.dart), [Ubuntu Yaru Flutter Widgets](https://github.com/ubuntu/yaru_widgets.dart) and [HSD Java and Engineering Courses](https://github.com/hs-duesseldorf)
 - 🌱 At the moment I'm fanatically learning, loving and ejoying [Flutter](https://flutter.dev) and [Dart](https://dart.dev/) 🎯💙 but I used to be a Java dev :laughing: 
-- 🥤 Fav drinks are green tea :tea:, water :ice_cube:, ☕ coffee and beer :beer: 
+- 🥤 Fav drinks are green & black tea :tea:, water :ice_cube:, ☕ coffee and beer :beer: 
 - 👨‍🍳 Fav foods are viatnamese 🍜, chinese 🥡, Japanese Ramen 🍜, italian 🍝👌, and german stuff :pretzel: but this varies heavily   
 - 🎧 [I love music, especially metal and rock](https://open.spotify.com/user/frederik-f?si=084df532fe2c4b05) 🤘
 - 🎮🖱️⌨️ When there is time left I play World of Warcraft (mainly all sorts of elves 🧝‍♂️ 🧝‍♀️) or make music 🤘
