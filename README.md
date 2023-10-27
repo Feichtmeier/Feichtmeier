@@ -3,7 +3,8 @@
 - I am a human using GitHub. I actually planned to become a rockstar however I ended up being a Software Developer :man_technologist:, Designer :man_artist: and [Hobby-Musician :guitar::singer:](https://deafdive.bandcamp.com/releases) 
 - 🔭 I’m currently working on creating an [Ubuntu Flutter Community](https://github.com/ubuntu-flutter-community) with an app-ecosystem and design language for the Ubuntu desktop, all things [Yaru](https://github.com/orgs/ubuntu/repositories?q=yaru&type=all&language=&sort=) and [HSD Java and Engineering Courses](https://github.com/hs-duesseldorf)
 - I am a proud member of the [Yaru-dojo](https://github.com/ubuntu/yaru), a group of people making the Ubuntu Desktop looking good
-- 🌱 At the moment I'm fanatically learning, loving, teaching and ejoying [Flutter](https://flutter.dev) and [Dart](https://dart.dev/) 🎯💙 but I used to be a Java dev :laughing: 
+- 🌱 At the moment I'm fanatically learning, loving, teaching and ejoying [Flutter](https://flutter.dev) and [Dart](https://dart.dev/) 🎯💙
+- ☕ I often work with Java, especially Spring boot, Vaadin and JavaFX
 - 🥤 Fav drinks are green & black tea :tea:, water :ice_cube:, ☕ coffee and beer :beer: 
 - 👨‍🍳 Fav foods are viatnamese 🍜, chinese 🥡, Japanese Ramen 🍜, italian 🍝👌, and german stuff :pretzel: but this varies heavily   
 - 🎧 [I love music, especially metal and rock](https://open.spotify.com/user/frederik-f?si=084df532fe2c4b05) 🤘
