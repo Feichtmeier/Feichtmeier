@@ -1,8 +1,9 @@
 ### Hello! 👋 🤘
 
-- I am a human using GitHub. I actually planned to become a rockstar however I ended up being a Software Developer :man_technologist:, Designer :man_artist: and [Hobby-Musician :guitar::singer:](https://deafdive.bandcamp.com/releases) 
-- 🔭 I’m currently working on creating an [Ubuntu Flutter Community](https://github.com/ubuntu-flutter-community) with an app-ecosystem and design language for the Ubuntu desktop, all things [Yaru](https://github.com/orgs/ubuntu/repositories?q=yaru&type=all&language=&sort=) and [HSD Java and Engineering Courses](https://github.com/hs-duesseldorf)
-- I am a proud member of the [Yaru-dojo](https://github.com/ubuntu/yaru), a group of people making the Ubuntu Desktop looking good
+- I am a human using GitHub, a Software Developer :man_technologist:, Designer :man_artist: and [Hobby-Musician :guitar::singer:](https://deafdive.bandcamp.com/releases) 
+- 🔭 I’m currently working on creating an [Ubuntu Flutter Community](https://github.com/ubuntu-flutter-community) with an app-ecosystem and design language for the Ubuntu Desktop, [the MusicPod music, radio and podcast player](https://github.com/ubuntu-flutter-community/musicpod) all things [Yaru](https://github.com/orgs/ubuntu/repositories?q=yaru&type=all&language=&sort=) and [HSD Java and Engineering Courses](https://github.com/hs-duesseldorf)
+- I have also bootstrapped the new [Ubuntu App Center](https://github.com/ubuntu/app-center), whichs developement is now led Canonical
+- I am a proud member of the [Yaru-dojo](https://github.com/ubuntu/yaru), a group of people who make the Ubuntu Desktop look good
 - 🌱 At the moment I'm fanatically learning, loving, teaching and ejoying [Flutter](https://flutter.dev) and [Dart](https://dart.dev/) 🎯💙
 - ☕ I often work with Java, especially Spring boot, Vaadin and JavaFX
 - 🥤 Fav drinks are green & black tea :tea:, water :ice_cube:, ☕ coffee and beer :beer: 
